@@ -1,4 +1,4 @@
-# Monitor network link conectivity with ping check and Telegram ChatBot API
+# Monitor network link connectivity with ping check and Telegram ChatBot API
 
 This script uses Telegram API to set an alarm triggered when the ping time passes certain threshold.
 
